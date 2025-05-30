@@ -1,0 +1,3 @@
+añadir mejor formulario para las vacas (añadir un menu desplegable el cual permita seleccionar y añadir)
+
+corregir la barra de menu

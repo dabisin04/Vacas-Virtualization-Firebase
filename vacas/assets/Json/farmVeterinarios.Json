@@ -1,0 +1,108 @@
+[
+  {
+    "id": 0,
+    "nombre": "CARLINA",
+    "tipo": "Hembra",
+    "ganaderia": "Rancho La Esperanza",
+    "corral": "Corral 1",
+    "numAnimal": "001",
+    "codigoReferencia": "REF-001",
+    "raza": "Holstein",
+    "proposito": "Leche",
+    "fechaNacimiento": "1984-12-01",
+    "padre": "TORO-001",
+    "madre": "VACA-001",
+    "pesoNacimiento": 35.0,
+    "peso12Meses": 450.0,
+    "produccion": [
+      {
+        "idProduccionLeche": 0,
+        "fecha": "1984-12-01",
+        "hora": "12:00 PM",
+        "consumo": 54,
+        "totalLeche": 23
+      }
+    ],
+    "veterinaria": [
+      {
+        "idVacunas": 0,
+        "fecha": "2023-04-20",
+        "vacuna": "Brucelosis",
+        "enfermedad": "Brucelosis Bovina"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "nombre": "MELISSA",
+    "tipo": "Hembra",
+    "ganaderia": "Finca San Juan",
+    "corral": "Corral 3",
+    "numAnimal": "002",
+    "codigoReferencia": "REF-002",
+    "raza": "Jersey",
+    "proposito": "Leche",
+    "fechaNacimiento": "2023-11-01",
+    "padre": "TORO-002",
+    "madre": "VACA-002",
+    "pesoNacimiento": 34.0,
+    "peso12Meses": 420.0,
+    "produccion": [
+      {
+        "idProduccionLeche": 0,
+        "fecha": "2024-11-01",
+        "hora": "09:00 AM",
+        "consumo": 60,
+        "totalLeche": 30
+      },
+      {
+        "idProduccionLeche": 1,
+        "fecha": "2024-11-02",
+        "hora": "08:30 AM",
+        "consumo": 62,
+        "totalLeche": 32
+      }
+    ],
+    "veterinaria": [
+      {
+        "idVacunas": 1,
+        "fecha": "2024-06-15",
+        "vacuna": "Fiebre Aftosa",
+        "enfermedad": "Fiebre Aftosa Bovina"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "TOMAS",
+    "tipo": "Macho",
+    "ganaderia": "Ganadería Los Alpes",
+    "corral": "Corral 2",
+    "numAnimal": "003",
+    "codigoReferencia": "REF-003",
+    "raza": "Angus",
+    "proposito": "Carne",
+    "fechaNacimiento": "2024-01-15",
+    "padre": "TORO-003",
+    "madre": "VACA-003",
+    "pesoNacimiento": 38.0,
+    "peso12Meses": 500.0,
+    "produccion": [
+      {
+        "idProduccionLeche": 0,
+        "fecha": "2024-11-01",
+        "hora": "10:00 AM",
+        "consumo": 0,
+        "totalLeche": 0
+      }
+    ],
+    "veterinaria": [
+      {
+        "idVacunas": 2,
+        "fecha": "2024-07-01",
+        "vacuna": "Carbunco Sintomático",
+        "enfermedad": "Carbunco Bacteriano"
+      }
+    ]
+  }
+]

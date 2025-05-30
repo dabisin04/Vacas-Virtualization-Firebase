@@ -1,0 +1,2 @@
+C:/Users/Hardment/Desktop/vacas/android/app/.cxx/RelWithDebInfo/3z4y5y34/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Hardment/Desktop/vacas/android/app/.cxx/RelWithDebInfo/3z4y5y34/x86_64/CMakeFiles/rebuild_cache.dir

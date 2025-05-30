@@ -1,0 +1,2 @@
+C:/Users/Hardment/Desktop/Parcial2/vacas/android/app/.cxx/RelWithDebInfo/f6c2c2cu/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Hardment/Desktop/Parcial2/vacas/android/app/.cxx/RelWithDebInfo/f6c2c2cu/armeabi-v7a/CMakeFiles/rebuild_cache.dir

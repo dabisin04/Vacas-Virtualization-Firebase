@@ -1,0 +1,2 @@
+C:/Users/Hardment/Desktop/vacas nuevo/Parcial2/vacas/android/app/.cxx/Debug/2bbo2b6h/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Hardment/Desktop/vacas nuevo/Parcial2/vacas/android/app/.cxx/Debug/2bbo2b6h/arm64-v8a/CMakeFiles/rebuild_cache.dir

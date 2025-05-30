@@ -1,0 +1,2 @@
+C:/Users/saedc/Downloads/vacas nuevo/Parcial2/vacas/android/app/.cxx/Debug/3e265xp6/x86/CMakeFiles/edit_cache.dir
+C:/Users/saedc/Downloads/vacas nuevo/Parcial2/vacas/android/app/.cxx/Debug/3e265xp6/x86/CMakeFiles/rebuild_cache.dir
