@@ -14,7 +14,6 @@ build/
 # IDE related
 .idea/
 .vscode/
-*.code-workspace
 
 # Android related
 **/android/.gradle
@@ -58,9 +57,7 @@ docker-compose.override.yml
 .env.*
 !.env.example
 **/static/
-**/static/**/*
 **/media/
-**/media/**/*
 
 # Python related
 __pycache__/
